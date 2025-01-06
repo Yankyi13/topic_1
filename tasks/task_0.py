@@ -1,1 +1,1 @@
-print("Hello World")  # допишите код
+print("Hello World")
