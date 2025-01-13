@@ -4,5 +4,5 @@ b = 7
 add = a + b
 multi = a * b
 
-print (add)
-print (multi)
+print("Сумма чисел:", add)
+print("Произведение чисел:", multi)
